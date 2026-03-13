@@ -9,14 +9,14 @@ A aplicação foi publicada utilizando **GitHub Pages**, permitindo que qualquer
 
 ---
 
-## 🚀 Demonstração
+### 🚀 Demonstração
 
 🔗 **Acesse o jogo online:**  
 https://github.com/daiannystorch/MemoryGameProject
 
 ---
 
-## 🎮 Como Jogar
+### 🎮 Como Jogar
 
 1. Clique em uma carta para revelá-la.
 2. Escolha uma segunda carta.
@@ -26,7 +26,7 @@ https://github.com/daiannystorch/MemoryGameProject
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 - **HTML5** — Estrutura da aplicação  
 - **CSS3** — Estilização e layout do jogo  
@@ -35,7 +35,7 @@ https://github.com/daiannystorch/MemoryGameProject
 
 ---
 
-## 📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 
 🧠memory-game/
 
@@ -45,7 +45,7 @@ https://github.com/daiannystorch/MemoryGameProject
 - assets/
 ---
 
-## ⚙️ Funcionalidades
+### ⚙️ Funcionalidades
 
 - Embaralhamento automático das cartas
 - Sistema de comparação de pares
@@ -55,7 +55,7 @@ https://github.com/daiannystorch/MemoryGameProject
 
 ---
 
-## 🌐 Deploy
+### 🌐 Deploy
 
 O projeto está publicado usando **GitHub Pages**.
 
@@ -74,7 +74,7 @@ O projeto está publicado usando **GitHub Pages**.
 
 ## 👨‍💻 Autora
 
-Desenvolvido por **Daianny Storch**
+Desenvolvido com amor 💜por **Daianny Storch**
 
 - GitHub: https://github.com/daiannystorch
 - LinkedIn: https://www.linkedin.com/in/daianny-storch/
