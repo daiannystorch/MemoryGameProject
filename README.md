@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-👩🏻‍💻 Primeiro projeto ever. Um jogo da memória criado para a disciplina "Construindo uma aplicação Web" da FTR. 
-🕹️ HTML, JavaScript e CSS. 
-🍀 Bora jogar?
-=======
 # 🧠 Jogo da Memória
 
 ![Capa do Projeto](./assets/preview.png)
@@ -88,4 +83,4 @@ Desenvolvido por **Daianny Storch``**
 ---
 
 ⭐ Se você gostou do projeto, considere dar uma **estrela no repositório**!`
->>>>>>> 1a977cd (doc:update)
+
