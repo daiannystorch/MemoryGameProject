@@ -75,7 +75,7 @@ O projeto está publicado usando **GitHub Pages**.
 
 ## 👨‍💻 Autora
 
-Desenvolvido por **Daianny Storch``**
+Desenvolvido por **Daianny Storch**
 
 - GitHub: https://github.com/daiannystorch
 - LinkedIn: https://www.linkedin.com/in/daianny-storch/
