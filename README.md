@@ -82,5 +82,5 @@ Desenvolvido por **Daianny Storch``**
 
 ---
 
-⭐ Se você gostou do projeto, considere dar uma **estrela no repositório**!`
+⭐ Se você gostou do projeto, considere dar uma **estrela no repositório**!
 
