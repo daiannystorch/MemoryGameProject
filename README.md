@@ -36,14 +36,13 @@ https://github.com/daiannystorch/MemoryGameProject
 ---
 
 ## 📂 Estrutura do Projeto
-memory-game/
-│
-├── index.html
-├── styles.css
-├── scripts.js
-│
-├── assets/
 
+🧠memory-game/
+
+- index.html
+- styles.css
+- scripts.js
+- assets/
 ---
 
 ## ⚙️ Funcionalidades
